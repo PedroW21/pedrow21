@@ -1,7 +1,7 @@
 ### Salve seres humanos! 👾Prazer, sou o Mr. Pedro 👾
 
 - 🔭 Atualmente estou em processo de aquisição de conhecimentos.
-- 🌱 Estudando HTML/CSS, JavaScript, React e TypeScript | C e Python.
+- 🌱 Estudando HTML/CSS, JavaScript, React e TypeScript | C.
 
  <div>
   <a href="https://github.com/PedroW21">
@@ -16,7 +16,6 @@
  <img align="center" alt="Pedro-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> 
  | 
  <img align="center" alt="Pedro-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
- <img align="center" alt="Pedro-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
   ##
