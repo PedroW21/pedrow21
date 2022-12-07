@@ -1,7 +1,7 @@
 ### Salve seres humanos! 👾Prazer, sou o Mr. Pedro 👾
 
 - 🔭 Atualmente estou em processo de aquisição de conhecimentos.
-- 🌱 Estudando HTML/CSS, JavaScript, React e TypeScript | C.
+- 🌱 Estudando HTML/CSS, JavaScript, React e TypeScript
 
  <div>
   <a href="https://github.com/PedroW21">
