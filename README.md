@@ -1,5 +1,6 @@
 ### Salve seres humanos! 👾Prazer, sou o Mr. Pedro 👾
 
+- 💼 Desenvolvedor Júnior na [TBK Banks](https://tbkbanks.com.br/)
 - 🔭 Atualmente estou em processo de aquisição de conhecimentos.
 - 🌱 Estudando HTML/CSS, JavaScript, React e TypeScript
 
