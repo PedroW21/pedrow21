@@ -1,8 +1,8 @@
-### Salve seres humanos! 👾Prazer, sou o Mr. Pedro 👾
+### Hello humans! 👾 Nice to meet you, I'm Mr. Pedro 👾
 
-- 💼 Desenvolvedor Júnior na [TBK Banks](https://tbkbanks.com.br/)
-- 🔭 Atualmente estou em processo de aquisição de conhecimentos.
-- 🌱 Estudando HTML/CSS, JavaScript, React e TypeScript
+- 💼 Junior Frontend Developer at [TBK Banks](https://tbkbanks.com.br/)
+- 🔭 Actually learning some nice techs and concepts
+- 🌱 Studying React, Typescript and Jest
 
  <div>
   <a href="https://github.com/PedroW21">
@@ -16,7 +16,8 @@
  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  <img align="center" alt="Pedro-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> 
  <img align="center" alt="Pedro-Mui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
- | 
+ <img align="center" alt="Pedro-Mui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+ |
  <img align="center" alt="Pedro-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
