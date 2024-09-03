@@ -1,8 +1,7 @@
 ### Hello humans! 👾 Nice to meet you, I'm Mr. Pedro 👾
 
-- 💼 Junior Developer at [TBK Banks](https://tbkbanks.com.br/)
 - 🔭 Actually learning some nice techs and concepts
-- 🌱 Studying React, Typescript, Laravel and PHPUnit
+- 🌱 Studying React, React Native, Typescript, Laravel and PHPUnit
 
  <div>
   <a href="https://github.com/PedroW21">
