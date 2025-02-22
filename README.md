@@ -2,6 +2,7 @@
 
 - 🔭 Actually learning some nice techs and concepts
 - 🌱 Studying React Native, Vue, Typescript, PHP, Laravel and PHPUnit
+- 💼 FullStack Developer and geek by DNA
 
  <div>
   <a href="https://github.com/PedroW21">
